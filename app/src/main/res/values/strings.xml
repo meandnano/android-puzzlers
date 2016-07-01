@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Puzzlers</string>
+
+    <string name="error_text">This field should not be empty</string>
+    <string name="error_text_drawable">This field definitely should not be empty</string>
+
+</resources>
